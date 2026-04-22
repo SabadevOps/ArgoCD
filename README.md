@@ -300,4 +300,4 @@ Learning and implementing GitOps with ArgoCD 🚀
 ---
 
 
-Tell me which version you want next 😊
+
